@@ -61,3 +61,4 @@ var food = {
 function total() {
     console.log(`your total is: £(${drink.price} + ${food.price}`);
       }
+

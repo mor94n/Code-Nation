@@ -23,3 +23,4 @@ const addUp = (num1,num2) => {
 }
 
 console.log(addUp(5,78));
+
